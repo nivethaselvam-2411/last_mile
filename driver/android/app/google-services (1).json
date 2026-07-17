@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "829164680847",
+    "project_id": "last-mile-81251",
+    "storage_bucket": "last-mile-81251.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829164680847:android:c8a28722b88f88eda8a2fa",
+        "android_client_info": {
+          "package_name": "com.driver.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDslUwdBp0C57c84qvLOJe9_QdPo5sgx6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829164680847:android:7587d2e9e93c0222a8a2fa",
+        "android_client_info": {
+          "package_name": "com.n3s.lastmile.passenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDslUwdBp0C57c84qvLOJe9_QdPo5sgx6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829164680847:android:d3d91da64b69953da8a2fa",
+        "android_client_info": {
+          "package_name": "com.passenger.passenger_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDslUwdBp0C57c84qvLOJe9_QdPo5sgx6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
